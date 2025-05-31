@@ -76,7 +76,7 @@ python movie_recommender.py
 ```
 ---
 
-### 🗂️ File Structure
+## 🗂️ File Structure
 ```sh
 Movie Recommendation System using KNN/
 │
@@ -86,5 +86,5 @@ Movie Recommendation System using KNN/
 ```
 ---
 
-### 🌟 Show Your Support
+## 🌟 Show Your Support
 If you like this project, consider giving it a ⭐ on GitHub. Contributions are also welcome!
