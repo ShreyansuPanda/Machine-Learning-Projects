@@ -10,7 +10,10 @@ This project uses the **Perceptron algorithm**, a fundamental linear classifier,
 The rise of misinformation has created a demand for automatic tools to verify the authenticity of news content. This project builds a **Fake News Detection System** using the **Perceptron learning algorithm**, combining it with NLP techniques such as **TF-IDF vectorization** and basic text cleaning for accurate classification.
 
 ---
+## Dataset
+Fake and Real News Dataset: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
+---
 ## 🚀 Concepts Used
 
 - **Perceptron Algorithm:**  
